@@ -1,0 +1,49 @@
+<html lang="en"><head meta="" charset="UTF-8">
+  <meta description="This survey will ask many questions and provide information on many types of plants">
+  <title>How are plants percieved</title>
+</head>
+   <body style="background-color:darkgreen;">
+      <header>
+        <h1>How Are Indoor Plants Percieved by the Public</h1>
+        <p>Ever since I can remember, I've always wanted to grow plants for the better of my home, garden, and farm,
+ however, growing up I realized not many people feel the same way as I do. In this survey there will be questions,
+ and some answers for you to go over and to see just how many poeple enjoy or dont enjoy houseplants!!</p>
+      </header>
+        <figure>
+           <img src="https://images.unsplash.com/photo-1497250681960-ef046c08a56e?q=80&amp;w
+=1974&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" height="400" width="300" alt="ferns on a tree">
+        <figcaption>Ferns grown native to many parts of the U.S.</figcaption>
+        </figure>
+    <form> 
+        <!-- Enter URL FOR FORM ACTION -->
+        <fieldset style="background-color: rgb(127, 78, 0);&gt;
+          &lt;p&gt;&lt;b&gt;Questionnaire #1&lt;/b&gt;&lt;/p&gt;
+          &lt;label for=" doyoulikeplants"="">Do you like plants?
+        <br>
+             <label>Yes:</label><input type="radio" id="yesorno" required="" name="Doyoulikeplants" checked="">
+             <label>No:</label><input type="radio" id="yesorno" required="" name="Doyoulikeplants">
+        <br>
+        <br>
+             <label for="indoors?">Indoors?</label>
+        <br>
+             <label>Yes:</label><input type="radio" id="indoors?" name="indoors?" checked="">
+             <label>No:</label><input type="radio" id="indoors?" name="indoors?">          
+        <br>
+        <br>
+             <label>Explain your answer. (optional)</label>
+        <br>
+             <textarea tabindex="-1"></textarea>
+          <br>
+             <button type="submit">Submit</button>
+    
+        </fieldset></form>
+        <fieldset>      
+          <figure>
+             <iframe width="560" height="315" src="https://www.youtube.com/embed/ucOjA0Na0rM?si=ogVBZrenjPp-PbVZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
+             </iframe>
+          </figure>        
+               <h2>Benefits of House Plants</h2>
+               <p></p>
+        </fieldset>
+    
+</body></html>
